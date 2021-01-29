@@ -1,0 +1,13 @@
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\bin\Debug\netcoreapp3.1\AllCountryLanguage.exe
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\bin\Debug\netcoreapp3.1\AllCountryLanguage.deps.json
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\bin\Debug\netcoreapp3.1\AllCountryLanguage.runtimeconfig.json
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\bin\Debug\netcoreapp3.1\AllCountryLanguage.runtimeconfig.dev.json
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\bin\Debug\netcoreapp3.1\AllCountryLanguage.dll
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\bin\Debug\netcoreapp3.1\AllCountryLanguage.pdb
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\obj\Debug\netcoreapp3.1\AllCountryLanguage.csprojAssemblyReference.cache
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\obj\Debug\netcoreapp3.1\AllCountryLanguage.AssemblyInfoInputs.cache
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\obj\Debug\netcoreapp3.1\AllCountryLanguage.AssemblyInfo.cs
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\obj\Debug\netcoreapp3.1\AllCountryLanguage.csproj.CoreCompileInputs.cache
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\obj\Debug\netcoreapp3.1\AllCountryLanguage.dll
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\obj\Debug\netcoreapp3.1\AllCountryLanguage.pdb
+C:\Users\AdminSSD\Desktop\AllCountryLanguage\AllCountryLanguage\obj\Debug\netcoreapp3.1\AllCountryLanguage.genruntimeconfig.cache
